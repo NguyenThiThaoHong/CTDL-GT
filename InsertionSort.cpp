@@ -2,16 +2,7 @@
 #include<cmath>
 using namespace std;
 
-/*void Input(int a[],int n)
-{
-	cout << "Nhap so phan tu mang: ";
-	cin >> n;
-	for (int i = 0; i < n; i++)
-	{
-		cout << "Nhap phan tu thu " << i << " :";
-		cin >> a[i];
-	}
-}*/
+
 void Output(int a[],int n)
 {
 	cout << "Danh sach phan tu: ";
